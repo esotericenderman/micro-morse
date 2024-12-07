@@ -12,7 +12,7 @@ This is in no way practical, but it's cool to see that it's at least possible.
 
 See the morse code chart below for help:
 
-![Morse Code](assets/Morse%20Code.png)
+![Morse Code](./assets/images/Morse%20Code.png)
 
 1. Button **A** is short signal.
 2. Button **B** is a long signal.
