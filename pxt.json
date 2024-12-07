@@ -9,6 +9,8 @@
     "files": [
         "src/main.ts",
         "src/utility/invertObject.ts",
+        "assets/images/badges/status.svg",
+        "assets/images/Morse Code.png",
         "README.md",
         "LICENSE"
     ],

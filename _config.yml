@@ -7,3 +7,5 @@ include:
   - assets
   - README.md
   - LICENSE
+  - "assets/images/badges/status.svg"
+  - "assets/images/Morse Code.png"
