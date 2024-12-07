@@ -14,6 +14,10 @@ See the morse code chart below for help:
 
 ![Morse Code](./assets/images/Morse%20Code.png)
 
+In the above diagram:
+- The dots &centerdot; represent short signals.
+- The dashes - represent long signals.
+
 1. Button **A** is a short signal.
 2. Button **B** is a long signal.
 3. Begin by typing out a letter using the **A** and **B** buttons.
