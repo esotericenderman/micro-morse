@@ -1,5 +1,7 @@
 # Microbit Morse Code Sender
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A script that allows you to send morse code between two Microbits.
 
 This is in no way practical, but it's cool to see that it's at least possible.
