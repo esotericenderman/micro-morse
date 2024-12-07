@@ -14,7 +14,7 @@ See the morse code chart below for help:
 
 ![Morse Code](./assets/images/Morse%20Code.png)
 
-1. Button **A** is short signal.
+1. Button **A** is a short signal.
 2. Button **B** is a long signal.
 3. Begin by typing out a letter using the **A** and **B** buttons.
 4. When you are done, type the termination sequence **AAAAB**. This will add the letter to what will be sent.
