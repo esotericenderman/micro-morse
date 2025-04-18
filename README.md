@@ -6,7 +6,7 @@
 
 This is in no way practical, but it's cool to see that it's at least possible.
 
-> Open this page at [https://EsotericEnderman.github.io/microbit-morse-code-sender/](https://EsotericEnderman.github.io/microbit-morse-code-sender/)
+> Open this page at [https://esotericenderman.github.io/microbit-morse-code-sender/](https://esotericenderman.github.io/microbit-morse-code-sender/)
 
 ## Usage
 
@@ -31,7 +31,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/EsotericEnderman/microbit-morse-code-sender** and import
+* search for **https://github.com/esotericenderman/microbit-morse-code-sender** and import
 
 ## Edit This Project
 
@@ -39,7 +39,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/EsotericEnderman/microbit-morse-code-sender** and click import
+* paste **https://github.com/esotericenderman/microbit-morse-code-sender** and click import
 
 ## Metadata (Used for Search, Rendering)
 
