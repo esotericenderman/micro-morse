@@ -3,10 +3,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="414" height="530" version="1.0" xml:space="preserve">
 <defs>
 <style>
-text { font-family: 'DejaVu Sans', Sans, sans-serif; font-size:18px; fill: #ffffff; }
+text { font-family: 'DejaVu Sans', Sans, sans-serif; font-size:18px; fill: #009dff; }
 tspan { stroke-width: .9217 }
-rect { fill: #ffffff; }
-circle { fill: #ffffff; }
+rect { fill: #009dff; }
+circle { fill: #009dff; }
 </style>
 </defs>
 <metadata><rdf:RDF><cc:Work rdf:about="">
