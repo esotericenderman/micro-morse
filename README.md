@@ -12,7 +12,7 @@ This is in no way practical, but it's cool to see that it's at least possible.
 
 See the morse code chart below for help:
 
-![Morse Code](./assets/images/morse-code.svg)
+![Morse code](./assets/images/morse-code.svg)
 
 In the above diagram:
 - The dots &centerdot; represent short signals.
