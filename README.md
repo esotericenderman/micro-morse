@@ -33,14 +33,6 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/esotericenderman/microbit-morse-code-sender** and import
 
-## Edit This Project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/esotericenderman/microbit-morse-code-sender** and click import
-
 ## Metadata (Used for Search, Rendering)
 
 * for PXT/microbit
