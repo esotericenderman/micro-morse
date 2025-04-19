@@ -1,12 +1,12 @@
-# Microbit Morse Code Sender
+# micro:morse
 
 [![Project Status: Completed](./assets/images/badges/status.svg)](./)
 
-> A script that allows you to send morse code between two Microbits.
+> A script that allows you to send morse code between two micro:bits.
 
 This is in no way practical, but it's cool to see that it's at least possible.
 
-> Open this page at [https://esotericenderman.github.io/microbit-morse-code-sender/](https://esotericenderman.github.io/microbit-morse-code-sender/)
+> Open this page at [https://esotericenderman.github.io/micro-morse/](https://esotericenderman.github.io/micro-morse/)
 
 ## Usage
 
@@ -22,7 +22,7 @@ In the above diagram:
 2. Button **B** is a long signal.
 3. Begin by typing out a letter using the **A** and **B** buttons.
 4. When you are done, type the termination sequence **AAAAAB**. This will add the letter to what will be sent.
-5. To send the current string, type the *end* character by typing **ABAB**. This will send the string to all other Microbits on the radio frequency.
+5. To send the current string, type the *end* character by typing **ABAB**. This will send the string to all other micro:bits on the radio frequency.
 
 ## Use as Extension
 
@@ -31,18 +31,18 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/esotericenderman/microbit-morse-code-sender** and import
+* search for **https://github.com/esotericenderman/micro-morse** and import
 
 ## Metadata (Used for Search, Rendering)
 
-* for PXT/microbit
+* for PXT/micro:bit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 ## License
 
 &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
 
-[Microbit Morse Code Sender](/) is licensed under the [AGPL 3.0](./LICENSE) only.
+[micro:morse](/) is licensed under the [AGPL 3.0](./LICENSE) only.
 
 ## Topics
 
