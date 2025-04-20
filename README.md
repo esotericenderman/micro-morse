@@ -54,10 +54,10 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Credit
 
-### [International Morse Code](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg?uselang=en#Licensing)
+### [International Morse Code](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg?)
 
 <sup>By Rhey T. Snodgrass and Victor F. Camp</sup>\
-<sup>[In the public domain](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg?uselang=en#Summary)</sup>
+<sup>[In the public domain](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg?#Summary)</sup>
 
 ## License
 
