@@ -1,7 +1,7 @@
 {
     "name": "micro-morse",
     "version": "1.0.1",
-    "description": "A script that allows you to send morse code between two Microbits.",
+    "description": "A script that allows you to send morse code between two micro:bits.",
     "dependencies": {
         "core": "*",
         "radio": "*"
