@@ -38,6 +38,20 @@ This repository can be added as an **extension** in MakeCode.
 * for PXT/micro:bit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
+## Changelog
+
+### 1.0.0
+
+- Created the basic functionality of this project.
+
+**Full Changelog**: https://github.com/esotericenderman/micro-morse/commits/1.0.0
+
+### 1.0.1
+
+- Removed a weird file from the [first release](#1.0.0).
+
+**Full Changelog**: https://github.com/esotericenderman/micro-morse/compare/1.0.0...1.0.1
+
 ## Credit
 
 ### [International Morse Code](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg?uselang=en#Licensing)
