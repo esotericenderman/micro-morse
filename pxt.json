@@ -1,5 +1,5 @@
 {
-    "name": "microbit-morse-code-sender",
+    "name": "micro-morse",
     "version": "1.0.1",
     "description": "A script that allows you to send morse code between two Microbits.",
     "dependencies": {
