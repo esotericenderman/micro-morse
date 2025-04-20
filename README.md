@@ -36,7 +36,9 @@ This repository can be added as an **extension** in MakeCode.
 ## Metadata (Used for Search, Rendering)
 
 * for PXT/micro:bit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+<script src="https://makecode.com/gh-pages-embed.js"></script>
+<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 ## Changelog
 
