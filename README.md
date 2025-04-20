@@ -38,6 +38,13 @@ This repository can be added as an **extension** in MakeCode.
 * for PXT/micro:bit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
+## Credit
+
+### [International Morse Code](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg?uselang=en#Licensing)
+
+<sup>By Rhey T. Snodgrass and Victor F. Camp</sup>\
+<sup>[In the public domain](https://commons.wikimedia.org/wiki/File:International_Morse_Code.svg?uselang=en#Summary)</sup>
+
 ## License
 
 &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
